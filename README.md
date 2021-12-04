@@ -11,4 +11,4 @@
 - @Aspect AOP
 - 스프링 AOP 개념, 구현, 포인트컷, 실전 예제, 실무 주의사항
 ## take notes
-- <b><a href="https://www.notion.so/Spring-69743c647ffe44d794dea5084120100c#030fc75ffbb344f7a032235b2a288cc0">Spring-advanced.blog</a></br>
+- <b><a href="https://everlasting-cello-2b6.notion.site/Spring-69743c647ffe44d794dea5084120100c">Spring.blog</a></br>
