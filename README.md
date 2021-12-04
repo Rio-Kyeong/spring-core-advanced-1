@@ -2,7 +2,7 @@
 <b>Design Pattern, Thread Local, AOP, Container</b>
 ## contents
 - 로그 추적기 생성
-- 쓰레드 로컬 - ThreadLocal
+- ThreadLocal - 동시성 문제 해결
 - 템플릿 메서드 패턴과 콜백 패턴
 - 프록시 패턴과 데코레이터 패턴
 - 동적 프록시 기술
