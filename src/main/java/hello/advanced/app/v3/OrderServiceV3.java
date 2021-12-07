@@ -23,7 +23,7 @@ public class OrderServiceV3 {
             trace.end(status);
         }catch (Exception e){
             trace.exception(status, e);
-            throw e; // 예외를 꼭 다시 던져주어야 한다. 그렇지 않으면 여기서 예외를 먹어버리고, 이후에 정상 흐름으로 동작한다.
+            throw e;
         }
     }
 }
