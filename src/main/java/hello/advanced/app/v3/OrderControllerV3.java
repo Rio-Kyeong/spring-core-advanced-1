@@ -7,8 +7,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
 
-@Controller
+@RestController
 @RequiredArgsConstructor
 public class OrderControllerV3 {
 
@@ -16,7 +17,6 @@ public class OrderControllerV3 {
     private final LogTrace trace; // 인터베이스(역할) 주입
 
     @GetMapping("/v3/request")
-    @ResponseBody
     public String request(String itemId){
 
         TraceStatus status = null;
