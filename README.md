@@ -1,5 +1,5 @@
 # spring-core-advanced
-<b>Design Pattern, Thread Local, AOP, Container</b>
+<b>Design Pattern, Thread Local</b>
 ## contents
 - 로그 추적기 생성
 - ThreadLocal - 동시성 문제 해결
