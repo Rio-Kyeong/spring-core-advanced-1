@@ -7,4 +7,4 @@
 - 전략 패턴
 - 템플릿 콜백 패턴
 ## take notes
-- <b><a href="https://everlasting-cello-2b6.notion.site/Spring-69743c647ffe44d794dea5084120100c">Spring.blog</a></br>
+- <b><a href="https://everlasting-cello-2b6.notion.site/Spring-69743c647ffe44d794dea5084120100c">Spring.blog</a></b>
